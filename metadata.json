@@ -1,0 +1,5 @@
+{
+  "name": "Auto Gain Staging",
+  "description": "Automatically match the LUFS of multiple audio tracks (e.g., Kick and Bass) based on a reference track.",
+  "requestFramePermissions": []
+}
